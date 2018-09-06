@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Add a new slide
+"I'm not supersitious, but I'm a little stitious." 
 Use the left arrow to go back!
